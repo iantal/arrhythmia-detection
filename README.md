@@ -1,2 +1,2 @@
-# arrhytmia-detection
+# arrhythmia-detection
 ARRHYTHMIA DETECTION
