@@ -28,7 +28,6 @@ train_arg.add_argument('--epochs', type=int, default=80)
 train_arg.add_argument('--batch', type=int, default=256)
 train_arg.add_argument('--patience', type=int, default=10)
 train_arg.add_argument('--min_lr', type=float, default=0.00005)
-train_arg.add_argument('--checkpoint_path', type=str, default=None)
 train_arg.add_argument('--resume_epoch', type=int)
 train_arg.add_argument('--ensemble', type=bool, default=False)
 train_arg.add_argument('--feature', type=str, default="MLII",
